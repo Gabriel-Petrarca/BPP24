@@ -59,6 +59,6 @@ def findByPreProfessionalTrack(studentTrack):
 
 #Iterate over the students and match based on information
 for _, student in studentXls.iloc[9:].iterrows():
-    student_name =
+    #student_name =
     student_major = findStudentMajor(student)
      
